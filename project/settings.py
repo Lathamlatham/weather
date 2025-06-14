@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-kuvas9950nm#5l_b$l&7-#l$*pr1#_7@iuwoa+dmg866+$@8ik
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['weather-1-uv9n.onrender.com']
 
 
 # Application definition
